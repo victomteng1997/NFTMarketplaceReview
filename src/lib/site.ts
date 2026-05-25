@@ -2,7 +2,7 @@
 // astro.config.mjs and applied at use time via link()/absoluteUrl() in
 // src/lib/path.ts. Keep this in sync with the SITE_URL in astro.config.mjs.
 export const SITE = {
-  url: import.meta.env.SITE ?? 'https://greydgl.github.io',
+  url: import.meta.env.SITE ?? 'https://victomteng1997.github.io',
   title: 'NFT Marketplace Review',
   tagline: 'NFT marketplaces reviewed for fees, liquidity, royalties, and creator tools.',
   description:
